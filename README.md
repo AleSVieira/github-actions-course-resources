@@ -1,1 +1,1 @@
-# https-github.com-academind-github-actions-course-resources
+#github-actions-course-resources
